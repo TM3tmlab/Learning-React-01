@@ -1,2 +1,2 @@
-# Udemy-React-byTakumiOkada
+# Udemy-React
 Created with CodeSandbox
